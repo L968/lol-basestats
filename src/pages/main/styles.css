@@ -1,0 +1,20 @@
+div.dropdown-menu.open{
+    max-height: 314px !important;
+    overflow: hidden;
+}
+
+ul.dropdown-menu.inner{
+    max-height: 260px !important;
+    overflow-y: auto;
+}
+
+canvas {
+    margin-top: 10px;
+}
+
+#selected-champions li {
+    list-style: none;
+    border: 2px solid black;
+    margin: 5px;
+    padding-left: 5px;
+}
